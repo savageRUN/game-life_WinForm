@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\obj\Debug\game life_WinForm.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\obj\Debug\game life_WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\obj\Debug\game_life_WinForm.Properties.Resources.resources
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\obj\Debug\game life_WinForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\obj\Debug\game life_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\bin\Debug\game life_WinForm.exe.config
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\bin\Debug\game life_WinForm.exe
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\bin\Debug\game life_WinForm.pdb
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\obj\Debug\game life_WinForm.exe
+C:\Users\user\source\repos\game life_WinForm\game life_WinForm\obj\Debug\game life_WinForm.pdb
